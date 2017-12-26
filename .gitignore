@@ -1,0 +1,80 @@
+# Prerequisites
+*.d
+
+# Object files
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.log
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+.idea
+CMakeScripts
+Testing
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+cmake-build-debug/
+*.txt
+*.swp
+*.pdf
+sources.blacklist
+handin.sh
+sources
+*.zip
+handin
+venv/
+
+cmake-build-release/
+*.aux
+*.fdb_latexmk
+*.fls
+*.out
+*.syntex.gz
+*.dvi
+*.gz
+*.xml
+*.blg
+*.bbl
+extra/benchmarks/*
